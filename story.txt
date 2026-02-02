@@ -1,0 +1,2 @@
+This is my project story.
+Line two is about Git.
